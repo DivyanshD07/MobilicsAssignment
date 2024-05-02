@@ -1,0 +1,9 @@
+.overlay-content:hover {
+    background-color: rgba(255, 255, 255, 0.8);
+    /* Add a semi-transparent white background */
+}
+
+.overlay-content:hover {
+    opacity: 100;
+    /* Make the content visible on hover */
+}
